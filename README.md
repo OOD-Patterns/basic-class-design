@@ -6,8 +6,8 @@ Well, Its not a actual browser, if thats what you are thinking. Does not involve
 
 Here is what is expected out of this
 
- 1. It takes a String ( url ) in a function ( choose your name), and displays "Welcome to <domain name> ( excludes the www or the
-    com|in... part)
+ 1. It takes a String ( url ) in a function ( choose your name), and displays "Welcome to << domain name >> ( excludes the www or the
+    com|in... part): For example for given String "http://www.google.com" , it displays "Welcome to Google"
     
  2. It also has a function which tells you whether there is anything left in the back navigation list.
  3. Has a function which tells you whether there is anything left in the forward navigation list.
